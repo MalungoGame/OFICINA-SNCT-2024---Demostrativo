@@ -1,0 +1,48 @@
+{
+  "$GMProject":"",
+  "%Name":"SNCT - Demonstrativo",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Objetos","folderPath":"folders/Objetos.yy","name":"Objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Obstáculos","folderPath":"folders/Sprites/Obstáculos.yy","name":"Obstáculos","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Personagens","folderPath":"folders/Sprites/Personagens.yy","name":"Personagens","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.6.2.162",
+  },
+  "name":"SNCT - Demonstrativo",
+  "resources":[
+    {"id":{"name":"obj_coletavel","path":"objects/obj_coletavel/obj_coletavel.yy",},},
+    {"id":{"name":"obj_colisor","path":"objects/obj_colisor/obj_colisor.yy",},},
+    {"id":{"name":"obj_contador","path":"objects/obj_contador/obj_contador.yy",},},
+    {"id":{"name":"obj_joystick","path":"objects/obj_joystick/obj_joystick.yy",},},
+    {"id":{"name":"obj_multitoque","path":"objects/obj_multitoque/obj_multitoque.yy",},},
+    {"id":{"name":"obj_psg_equipe_1","path":"objects/obj_psg_equipe_1/obj_psg_equipe_1.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_colisor","path":"sprites/spr_colisor/spr_colisor.yy",},},
+    {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},},
+    {"id":{"name":"spr_joystick","path":"sprites/spr_joystick/spr_joystick.yy",},},
+    {"id":{"name":"spr_kirby","path":"sprites/spr_kirby/spr_kirby.yy",},},
+    {"id":{"name":"spr_maca","path":"sprites/spr_maca/spr_maca.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
