@@ -1,4 +1,4 @@
-# OFICINA-SNCT-2024---Demostrativo
+# OFICINA-SNCT-2024-(Demostrativo)
 
 ![Logo da Semana Nacional de Tecnololgia 2024 - IFPE Campus Recife](https://portal.ifpe.edu.br/recife/wp-content/uploads/sites/2/2024/10/snctbanner.png)
 
